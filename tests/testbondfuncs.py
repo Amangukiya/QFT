@@ -1,5 +1,5 @@
 import unittest
-import qft.bondfuncs as bond
+import qft.qft.bondfuncs as bond
 
 
 class TestBondFunctions(unittest.TestCase):
