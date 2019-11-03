@@ -22,3 +22,9 @@ def solve_rate(pv, fv, pmt, nper):
 
 def solve_nper(pv, fv, pmt, rate):
     return next(x for x in solve(expr.subs({"pv": pv, "fv": fv, "pmt": pmt, "rate": rate}), nper) if x >= 0)
+
+
+
+
+
+

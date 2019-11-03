@@ -1,4 +1,12 @@
 def bootstrap_rate(fv, pmt, nper, s_n):
+    """
+    fv: future value
+    pmt: payment
+    nper: num periods 
+    s_n: spot rate at period n
+    --
+    returns s_(n+1)
+    """
     return ((pmt + fv)/fv*(1+s_n)**nper)**(1/(nper+1)) - 1
 
 
