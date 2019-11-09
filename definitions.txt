@@ -1,0 +1,15 @@
+This file is meant to clarify common finance terms
+
+Principal - usually refers to the original sum of money borrowed in a loan or put into an investment. the amount of interest one pays on a loan is determined by the principal.
+Face value - the price of a share, bond, or security when it was issued rather than its current market value.
+Par value - same as face value.
+Cash flow - incomings and outgoings of money.
+Bond - a written and signed promise to pay a certain sum of money on a certain date
+Coupon - annual interest rate paid on a bond, expressed as a percentage of the face value and paid from issue date until maturity.
+Spot rate - current market value of an asset at the moment of the quote
+Discount rate - rate of return used to discount future cash flows back to their present value
+Yield curve - a curve showing several interest rates across different contract lengths
+Yield to maturity (YTM) - discount rate at which the sum of all future cash flows from the bond (coupons and principal) is equal to the current price of the bond.
+Zero-coupon bond - a bond issued with a deep discount to its face value but pays no interest. redeemed at maturity at its full face value for a profit
+Bootstrapping spot rates - a method to determine zero coupon interest rates from the par rate curve
+
