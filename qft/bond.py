@@ -1,7 +1,7 @@
 from abc import abstractmethod, ABCMeta
 from typing import Mapping, Callable
 import more_itertools
-from qft.qft import solve_pv
+from qft import solve_pv
 
 
 def pv(fv: float, rate: float, t: float) -> float:

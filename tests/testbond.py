@@ -1,4 +1,4 @@
-from qft.qft import solve_pv, FlatBond, InterpolatedBond, CurvedBond
+from qft import solve_pv, FlatBond, InterpolatedBond, CurvedBond
 from hypothesis import given, strategies as st
 import unittest
 import math

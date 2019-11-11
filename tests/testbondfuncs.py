@@ -1,4 +1,4 @@
-from qft.qft import solve_pv, solve_fv, solve_pmt, solve_rate, solve_nper
+from qft import solve_pv, solve_fv, solve_pmt, solve_rate, solve_nper
 import unittest
 import math
 

@@ -1,4 +1,4 @@
-from qft.qft import FlatBond, CurvedBond
+from qft import FlatBond, CurvedBond
 import matplotlib.pyplot as plt
 
 
